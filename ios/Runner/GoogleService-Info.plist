@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>501320318239-mt8lpq3c9e2iq2ahluhkol6ql59gl25r.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.501320318239-mt8lpq3c9e2iq2ahluhkol6ql59gl25r</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>501320318239-5qlrn2vh71lr6alh9ke9lsob1n7eapco.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCeN3CO8_lSSIgIO0__s-wFU_IKzDMKb6U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>501320318239</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.intellitechsolutions.michat</string>
+	<key>PROJECT_ID</key>
+	<string>mi-chat-qbul4q</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mi-chat-qbul4q.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:501320318239:ios:6e9a29453c4290a76d442a</string>
+</dict>
+</plist>

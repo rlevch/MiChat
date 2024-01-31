@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "501320318239",
+    "project_id": "mi-chat-qbul4q",
+    "storage_bucket": "mi-chat-qbul4q.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501320318239:android:f2448756a1ed90e56d442a",
+        "android_client_info": {
+          "package_name": "com.intellitechsolutions.michat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501320318239-5qlrn2vh71lr6alh9ke9lsob1n7eapco.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.intellitechsolutions.michat",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "501320318239-4lpqppalsotdf9ul4h61ihoc487jj46a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeHMb8bB9yf6uyBTq6NAbBm6CMtG5fS1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501320318239-4lpqppalsotdf9ul4h61ihoc487jj46a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "501320318239-mt8lpq3c9e2iq2ahluhkol6ql59gl25r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.intellitechsolutions.michat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
